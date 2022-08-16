@@ -1,10 +1,13 @@
-POO - C++ 
+# POO - C++
 
+### Compile
 
-command to run: 
+```sh
+g++ -o <name> *.cpp
+```
 
-g++ -o [name] *.cpp
+### Execute
 
-command to execute:
-
-./[name]
+```sh
+./<name>
+```

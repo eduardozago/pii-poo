@@ -3,8 +3,8 @@ POO - C++
 
 command to run: 
 
-g++ -o <name> *.cpp
+g++ -o [name] *.cpp
 
 command to execute:
 
-./<name>
+./[name]
